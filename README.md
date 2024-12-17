@@ -1,4 +1,6 @@
-## Hi there 👋
+# Mathematical and Computational Neuroscience
+
+I am an assistant professor of mathematics at Creighton University. My research interests lie in the intersection of mathematics and neuroscience.
 
 <!--
 **sekunder/sekunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
